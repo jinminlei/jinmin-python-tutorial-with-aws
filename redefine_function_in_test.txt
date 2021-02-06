@@ -1,0 +1,6 @@
+import someclass
+
+def get_info(self, *args):
+    return "Test data"
+
+someclass.get_info = get_info
