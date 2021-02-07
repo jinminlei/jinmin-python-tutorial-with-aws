@@ -2,7 +2,7 @@
 All aspects about python applications in aws.
 
 # Table of Contents
-* [Set up python virtual environment](https://github.com/jinminlei/jinmin-python-tutorial-with-aws/tree/master/create_a_virtual_environment)
+* [Set up a python virtual environment](https://github.com/jinminlei/jinmin-python-tutorial-with-aws/tree/master/create_a_virtual_environment)
 * Run code in Docker container
 * Deploy a flask application to AWS ECS
 
