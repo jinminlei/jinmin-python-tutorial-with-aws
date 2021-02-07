@@ -1,7 +1,7 @@
 # Introduction
 In this section, I introduce two methods for creating the python virtual environment. The code has been ran in powershell/windows 10. 
 
-# Method 1 - venv
+# Method 1 - venv (native to python3)
 * Create the working directory
 
     ```mkdir create_a_virtual_environment_1```
