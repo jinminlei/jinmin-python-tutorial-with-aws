@@ -5,6 +5,7 @@ All aspects about python applications in aws.
 * [Set up a python virtual environment](https://github.com/jinminlei/jinmin-python-tutorial-with-aws/tree/master/create_a_virtual_environment)
 * Dockerize your Python Application
 * Deploy a flask application to AWS ECS
+* Create an AWS CDK project
 
 ## Prerequisite
 * [An aws account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
