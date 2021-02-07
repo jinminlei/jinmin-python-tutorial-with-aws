@@ -1,5 +1,5 @@
 # Introduction
-In this section, I introduce two methods for creating the python virtual environment. The code has been ran in powershell/windows 10.
+In this section, I introduce two methods for creating the python virtual environment. The code has been ran in powershell/windows 10. I'll add a linux container for running the code as well. 
 
 # Method 1 - venv
 * Create the working directory
